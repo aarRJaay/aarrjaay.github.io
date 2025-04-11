@@ -6,21 +6,35 @@
     <description>Recent content in Blog on Team Bear - Our Life</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 11 Apr 2025 07:53:01 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 11:33:48 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Let&#39;s Try Again</title>
+      <link>http://localhost:1313/posts/again-and-again/</link>
+      <pubDate>Fri, 11 Apr 2025 11:33:48 +0100</pubDate>
+      <guid>http://localhost:1313/posts/again-and-again/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m trying this again to see if another post works.  Let&amp;rsquo;s try it.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>My First Post Trying A New Thing</title>
-      <link>http://localhost:1313/posts---critical-for-section-detection/first-post/</link>
-      <pubDate>Fri, 11 Apr 2025 07:53:01 +0100</pubDate>
-      <guid>http://localhost:1313/posts---critical-for-section-detection/first-post/</guid>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Fri, 11 Apr 2025 11:33:48 +0100</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>&lt;p&gt;Hi, I&amp;rsquo;m Rich and this is my first post&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Second Post - Let&#39;s Try Nesting</title>
-      <link>http://localhost:1313/posts---critical-for-section-detection/second/</link>
-      <pubDate>Fri, 11 Apr 2025 07:53:01 +0100</pubDate>
-      <guid>http://localhost:1313/posts---critical-for-section-detection/second/</guid>
+      <link>http://localhost:1313/posts/second/</link>
+      <pubDate>Fri, 11 Apr 2025 11:33:48 +0100</pubDate>
+      <guid>http://localhost:1313/posts/second/</guid>
       <description>&lt;p&gt;Let&amp;rsquo;s try this as a second post and see if it comes as a new post&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Yet Another Post</title>
+      <link>http://localhost:1313/posts/another-one/</link>
+      <pubDate>Fri, 11 Apr 2025 11:33:48 +0100</pubDate>
+      <guid>http://localhost:1313/posts/another-one/</guid>
+      <description>&lt;p&gt;This is another post to prove it works&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
