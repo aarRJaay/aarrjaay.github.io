@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on A Bear With A Bike And A Baby</title>
-    <link>http://localhost:1313/tags/blog/</link>
+    <link>https://aarrjaay.github.io/tags/blog/</link>
     <description>Recent content in Blog on A Bear With A Bike And A Baby</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 23 Apr 2025 14:47:16 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aarrjaay.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>We&#39;re Having A Baby!!</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://aarrjaay.github.io/posts/first-post/</link>
       <pubDate>Wed, 23 Apr 2025 14:47:16 +0100</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>https://aarrjaay.github.io/posts/first-post/</guid>
       <description>&lt;p&gt;It started with Eleanor not feeling great for a few days straight and someone at her work suggested that she may be pregnant.  We HAD been trying but it was waaaay too soon for her to be having any symptoms.&lt;/p&gt;&#xA;&lt;p&gt;The thing is, it&amp;rsquo;s crazy how long you need to wait until any kind of medical advice. We thought you&amp;rsquo;d need to book in with a doctor, get connected to a midwife, arrange a scan.  Nope!  None of that until 8  weeks.  We thought we&amp;rsquo;d at least be given an &amp;lsquo;official&amp;rsquo; pregnancy test rather than relying on weeing on a stick (4 times!).&lt;/p&gt;</description>
     </item>
   </channel>
