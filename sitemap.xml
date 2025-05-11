@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aarrjaay.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-05-05T11:33:54+01:00</lastmod>
   </url><url>
-    <loc>https://aarrjaay.github.io/tags/blog/</loc>
+    <loc>http://localhost:1313/tags/blog/</loc>
     <lastmod>2025-05-05T11:33:54+01:00</lastmod>
   </url><url>
-    <loc>https://aarrjaay.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-05-05T11:33:54+01:00</lastmod>
   </url><url>
-    <loc>https://aarrjaay.github.io/posts/hope-maybe/</loc>
+    <loc>http://localhost:1313/posts/hope-maybe/</loc>
     <lastmod>2025-05-05T11:33:54+01:00</lastmod>
   </url><url>
-    <loc>https://aarrjaay.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-05T11:33:54+01:00</lastmod>
   </url><url>
-    <loc>https://aarrjaay.github.io/posts/inconclusive/</loc>
+    <loc>http://localhost:1313/posts/inconclusive/</loc>
     <lastmod>2025-05-05T11:33:54+01:00</lastmod>
   </url><url>
-    <loc>https://aarrjaay.github.io/posts/first-post/</loc>
+    <loc>http://localhost:1313/posts/first-post/</loc>
     <lastmod>2025-05-05T11:33:54+01:00</lastmod>
   </url><url>
-    <loc>https://aarrjaay.github.io/posts/window-to-the-womb/</loc>
+    <loc>http://localhost:1313/posts/window-to-the-womb/</loc>
     <lastmod>2025-05-05T11:33:54+01:00</lastmod>
   </url><url>
-    <loc>https://aarrjaay.github.io/posts/blog/</loc>
+    <loc>http://localhost:1313/posts/blog/</loc>
   </url><url>
-    <loc>https://aarrjaay.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
