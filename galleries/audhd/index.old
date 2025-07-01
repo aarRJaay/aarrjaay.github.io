@@ -1,0 +1,16 @@
+#+title: A Bear With A Bike And A Baby
+#+hugo_base_dir: ~/Projects/Blog/my-blog
+#+hugo_auto_set_lastmod: t
+
+* Posts
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts
+:END:
+
+** We're Having A Baby!!
+:PROPERTIES:
+:EXPORT_FILE_NAME: first-post
+:EXPORT_HUGO_TAGS: posts pregnancy
+:END:
+
+{{< gallery >}}

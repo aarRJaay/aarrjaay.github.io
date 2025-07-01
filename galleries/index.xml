@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on A Bear With A Bike And A Baby</title>
+    <link>http://localhost:1313/galleries/</link>
+    <description>Recent content in Galleries on A Bear With A Bike And A Baby</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 30 Jun 2025 15:10:15 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/galleries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AuDHD Memes and Posts</title>
+      <link>http://localhost:1313/galleries/audhd/</link>
+      <pubDate>Mon, 30 Jun 2025 15:10:15 +0100</pubDate>
+      <guid>http://localhost:1313/galleries/audhd/</guid>
+      <description>&lt;p&gt;I possibly have Autism / ADHD (AuDHD) and thought I&amp;rsquo;d post memes here that describe how it affects me.&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;  &#xA;    &lt;li&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/galleries/audhd/making_excuses.png&#34; alt=&#34;making_excuses.png&#34;&gt;&#xA;    &lt;/li&gt;&#xA;  &#xA;    &lt;li&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/galleries/audhd/my_brain_replying_to_question.jpg&#34; alt=&#34;my_brain_replying_to_question.jpg&#34;&gt;&#xA;    &lt;/li&gt;&#xA;  &#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

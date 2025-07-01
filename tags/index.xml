@@ -6,13 +6,69 @@
     <description>Recent content in Tags on A Bear With A Bike And A Baby</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 19 May 2025 13:46:14 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 14:35:59 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/tags/blog/</link>
-      <pubDate>Mon, 19 May 2025 13:46:14 +0100</pubDate>
-      <guid>http://localhost:1313/tags/blog/</guid>
+      <title>AuDHD</title>
+      <link>http://localhost:1313/tags/audhd/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/audhd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bible</title>
+      <link>http://localhost:1313/tags/bible/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bible/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Christian</title>
+      <link>http://localhost:1313/tags/christian/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/christian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posts</title>
+      <link>http://localhost:1313/tags/posts/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/posts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Now</title>
+      <link>http://localhost:1313/tags/now/</link>
+      <pubDate>Mon, 30 Jun 2025 11:50:38 +0100</pubDate>
+      <guid>http://localhost:1313/tags/now/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ADHD</title>
+      <link>http://localhost:1313/tags/adhd/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/adhd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Autism</title>
+      <link>http://localhost:1313/tags/autism/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/autism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Miscarrage</title>
+      <link>http://localhost:1313/tags/miscarrage/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/miscarrage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pregnancy</title>
+      <link>http://localhost:1313/tags/pregnancy/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pregnancy/</guid>
       <description></description>
     </item>
   </channel>
