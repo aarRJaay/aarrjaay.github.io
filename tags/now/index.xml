@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Now on A Bear With A Bike And A Baby</title>
-    <link>http://localhost:1313/tags/now/</link>
+    <link>https://aarrjaay.github.io/tags/now/</link>
     <description>Recent content in Now on A Bear With A Bike And A Baby</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 30 Jun 2025 11:50:38 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/now/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aarrjaay.github.io/tags/now/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Now</title>
-      <link>http://localhost:1313/posts/now/</link>
+      <link>https://aarrjaay.github.io/posts/now/</link>
       <pubDate>Mon, 30 Jun 2025 11:50:38 +0100</pubDate>
-      <guid>http://localhost:1313/posts/now/</guid>
+      <guid>https://aarrjaay.github.io/posts/now/</guid>
       <description>&lt;h2 id=&#34;work&#34;&gt;WORK&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently taking some time off work due to &amp;lsquo;Voluntary Redundancy&amp;rsquo; and am using the time to &amp;lsquo;reboot&amp;rsquo; myself.  I&amp;rsquo;m now looking for a role that is more people oriented.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Applied to work in a local prison as a &amp;lsquo;Contractor Escort&amp;rsquo; - helping contractors to move around the prision, ensuring they&amp;rsquo;re following Health and Safety, using correct equiment etc.  It&amp;rsquo;s a foot in the door as a more interesting roll would be &amp;lsquo;Operational Support Grade&amp;rsquo; which is basically the date-to-day running of the prison (non-inmate facing).&lt;/p&gt;</description>
     </item>
   </channel>
